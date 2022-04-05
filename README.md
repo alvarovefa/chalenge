@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Respuesta a pregunta Abierta:
 
 # Como la bd maneja una gran cantidad de registros, creo que no es prudente realizar cambios a la estructura de ésta
@@ -96,6 +96,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# challenge
->>>>>>> 7adab50256f3bb766ab70d9ea3e872f3e4e72eec
+
+
